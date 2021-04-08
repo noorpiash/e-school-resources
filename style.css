@@ -56,3 +56,40 @@ span{
     color: #18c971;
 }
 
+
+.team-area{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 120px;
+    
+    
+   
+}
+
+.single-box{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 25px;
+    position:relative;
+    
+    box-shadow: 0px 0px 15px lightgray;
+    
+    
+    
+   
+   
+}
+
+
+.singlebox-content{
+    text-align: center;
+    margin-top: 25px;
+}
+    
+
+.singlebox-icon{
+    align-items: center;
+    padding: 40px 60px 0px 60px;
+    justify-content: center;
+}
